@@ -95,4 +95,4 @@ p.sleep(2)
 # p.sleep(2)
 # p.moveTo(x=80, y=50, duration=1)
 # p.click(x=80, y=50)
-# p.sleep(2)
+# p.sleep(2)abacate.py
